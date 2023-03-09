@@ -1,4 +1,4 @@
-# Create and Remove directories
+# Create and remove directories
 
 Trying out Node.js File System.
 
